@@ -23,4 +23,5 @@ To run your tests
 - Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
 1. [Array Reverse](./javascript/ArrayReverse/README.md)
 2. [Array Insert-Shift](./javascript/ArrayInsertShift/README.md)
-2. [Linked List](./javascript/linked-list/README.md)
+3. [Linked List](./javascript/linked-list/README.md)
+4. [Array Binary Search](./javascript/ArrayBinarySearch/README.md)
