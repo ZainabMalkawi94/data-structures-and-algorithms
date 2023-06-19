@@ -25,3 +25,4 @@ To run your tests
 2. [Array Insert-Shift](./javascript/ArrayInsertShift/README.md)
 3. [Linked List](./javascript/linked-list/README.md)
 4. [Array Binary Search](./javascript/ArrayBinarySearch/README.md)
+5. [linked list insertions](./javascript/LinkedListInsertions/README.md)
