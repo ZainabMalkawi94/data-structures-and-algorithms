@@ -147,6 +147,23 @@ class LinkedList {
 
     return slow.value;
   }
+
+  reverse() {
+    let current = this.head;
+    let previous = null;
+    let nextNode = null;
+
+    while (current !== null) {
+      nextNode = current.next;
+      current.next = previous;
+      previous = current;
+      current = nextNode;
+    }
+
+    this.head = previous;
+  }
+
+
 }
 
 function zipLists(list1, list2) {
