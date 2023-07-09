@@ -9,7 +9,8 @@
                 The AnimalShelter class is designed to operate as a first-in, first-out (FIFO) animal shelter. It can hold dogs and cats and provides methods for enqueueing animals into the shelter and dequeuing them based on the preference specified.
 
 
-
+## Whiteboard Process
+![Page 1](./whiteboard.jpg)
 
 ## Approach & Efficiency
 
