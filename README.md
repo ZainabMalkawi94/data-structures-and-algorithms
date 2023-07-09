@@ -28,3 +28,4 @@ To run your tests
 5. [linked list insertions](./javascript/LinkedListInsertions/README.md)
 6. [linked List kth](./javascript/linked-list-kth/README.md)
 7. [Zip two linked lists](./javascript/linked-list-zip/README.md)
+8. [First-in, First out Animal Shelter](./javascript/FIFOAnimal/README.md)

@@ -12,8 +12,6 @@
 
 
 
-Efficiency and Approach:
-
 
 ## Whiteboard Process
 ![Page 1](https://i.ibb.co/R9BZTQ1/Untitled-7.jpg)
