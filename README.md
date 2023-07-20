@@ -30,3 +30,9 @@ To run your tests
 7. [Zip two linked lists](./javascript/linked-list-zip/README.md)
 8. [First-in, First out Animal Shelter](./javascript/FIFOAnimal/README.md)
 9. [Multi-bracket Validation](./javascript/Multi-bracketValidation/README.md)
+10. [Animal Shilter](./javascript/FIFOAnimal/README.md)
+
+11. [stack-queue-brackets](./javascript/Multi-bracketValidation/README.md)
+12. [Trees](./javascript/Trees/README.md)
+13. [Max value in binary tree](./javascript/Trees/MaxValue/README.md)
+14. [tree-breadth-first](./javascript/Trees/BreadthFirst/README.md)
