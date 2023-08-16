@@ -38,3 +38,4 @@ To run your tests
 14. [tree-breadth-first](./javascript/Trees/BreadthFirst/README.md)
 15. [FizzBuzz](./javascript/Trees/FizzBuzz/README.md)
 16. [Insertion Sorting](./javascript/InsrtionSorting/README.md)
+17. [Merge Sorte](./javascript/MergeSort/README.md)
