@@ -18,10 +18,7 @@ The key insight of merge sort lies in the merging step. By merging two already s
 However, merge sort does require additional memory to store the auxiliary array used during the merging step. This is known as its space complexity, which is O(n). Despite this drawback, merge sort is often used in situations where stability and guaranteed worst-case performance are important factors.
 
 ## White board
-![Alt text](image-2.png)
-![Alt text](image-3.png)
-![Alt text](image-4.png)
-
+![Alt text](image-5.png)
 
 ## Understanding the Pseudocode
 
