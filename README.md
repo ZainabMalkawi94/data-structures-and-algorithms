@@ -39,3 +39,4 @@ To run your tests
 15. [FizzBuzz](./javascript/Trees/FizzBuzz/README.md)
 16. [Insertion Sorting](./javascript/InsrtionSorting/README.md)
 17. [Merge Sorte](./javascript/MergeSort/README.md)
+18. [Sorting Movies](./javascript/movies/movies.md)
