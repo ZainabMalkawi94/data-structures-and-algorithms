@@ -7,3 +7,5 @@ In the second half of the challenge, your objective is to create tests for the s
 
 Code : [Part 1](./movies.js)
 Test : [Test](./movie.test.js)
+
+![Alt text](image.png)
