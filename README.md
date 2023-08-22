@@ -40,3 +40,4 @@ To run your tests
 16. [Insertion Sorting](./javascript/InsrtionSorting/README.md)
 17. [Merge Sorte](./javascript/MergeSort/README.md)
 18. [Sorting Movies](./javascript/movies/movies.md)
+19. [Hash Table](./javascript/HashTable/Hashtable.md)
