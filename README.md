@@ -41,3 +41,4 @@ To run your tests
 17. [Merge Sorte](./javascript/MergeSort/README.md)
 18. [Sorting Movies](./javascript/movies/movies.md)
 19. [Hash Table](./javascript/HashTable/Hashtable.md)
+20. [hashmap repeated word]
