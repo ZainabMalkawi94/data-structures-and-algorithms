@@ -43,3 +43,4 @@ To run your tests
 19. [Hash Table](./javascript/HashTable/Hashtable.md)
 20. [Hashmap repeated word](./javascript/repeatedWord/README.md)
 21. [Find common values in 2 binary trees.](./javascript/treeIntersection/README.md)
+22. [Graphs](./javascript/Graphs/README.md)
