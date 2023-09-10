@@ -1,4 +1,4 @@
-const Graph = require('./Graphs');
+const {Graph} = require('./Graphs');
 
 test('Vertex can be successfully added to the graph', () => {
     const graph = new Graph();
