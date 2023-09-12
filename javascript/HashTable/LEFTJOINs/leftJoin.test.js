@@ -40,5 +40,55 @@ console.log(result.length);
     expect(result[4]).toEqual(['wrath', 'anger', 'delight']);
   });
 
-  // Add more test cases as needed
+  it('should return an empty array when both input objects are empty', () => {
+    const synonymsHash = {};
+    const antonymsHash = {};
+    const result = leftJoin(synonymsHash, antonymsHash);
+    expect(result).toEqual([]);
+  });
+
+  it('should return an array of key-value pairs with synonyms and null antonyms', () => {
+    const synonymsHash = {
+      happy: 'joyful',
+      sad: 'unhappy',
+    };
+    const antonymsHash = {};
+    const result = leftJoin(synonymsHash, antonymsHash);
+    expect(result).toEqual([
+      ['happy', 'joyful', null],
+      ['sad', 'unhappy', null],
+    ]);
+  });
+
+  it('should return an array of key-value pairs with synonyms and matching antonyms', () => {
+    const synonymsHash = {
+      hot: 'warm',
+      cold: 'cool',
+    };
+    const antonymsHash = {
+      hot: 'cold',
+      cold: 'hot',
+    };
+    const result = leftJoin(synonymsHash, antonymsHash);
+    expect(result).toEqual([
+      ['hot', 'warm', 'cold'],
+      ['cold', 'cool', 'hot'],
+    ]);
+  });
+
+  it('should return an array of key-value pairs with synonyms and null antonyms for missing keys in antonyms', () => {
+    const synonymsHash = {
+      apple: 'fruit',
+      car: 'vehicle',
+    };
+    const antonymsHash = {
+      apple: 'orange',
+    };
+    const result = leftJoin(synonymsHash, antonymsHash);
+    expect(result).toEqual([
+      ['apple', 'fruit', 'orange'],
+      ['car', 'vehicle', null],
+    ]);
+  });
+
 });
