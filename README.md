@@ -45,3 +45,4 @@ To run your tests
 21. [Find common values in 2 binary trees.](./javascript/treeIntersection/README.md)
 22. [Graphs](./javascript/Graphs/README.md)
 23. [Graph Breadth First (BFS)](./javascript//graph-breadth-first/README.md)
+24. [Graph Business Trip](./javascript//graph-breadth-first/README.md)
